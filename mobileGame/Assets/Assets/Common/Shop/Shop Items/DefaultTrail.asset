@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20cf8826aba17fa409af1105cd31088d, type: 3}
+  m_Name: DefaultTrail
+  m_EditorClassIdentifier: 
+  trailName: Default
+  trailEffect: {fileID: 2539563530858311670, guid: 2cb40803cb735a74aa1444ff69ee7a43,
+    type: 3}
+  icon: {fileID: 21300000, guid: 5bf5b25562e78fa4fb82f9805338a24d, type: 3}
+  cost: 0
+  ID: 0
