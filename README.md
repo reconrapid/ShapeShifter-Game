@@ -1,2 +1,2 @@
 # ShapeShifter Game
- A mobile game I created using Unity. 
+An arcade, endless runner game I created independently over the course of two weeks. I created the game using the Unity engine, everything being created by myself with the exception of the game music which I bought a license to use. All other assets, such as the UI & game sprites were created through the use of Illustrator. The mobile version even implemented features using Google Play Services APIs & use their Leaderboard system. This meant I could let Google Play Services manage most aspects of this for me & easily provide a method for allowing players to compete with their friends on Android.
